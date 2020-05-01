@@ -77,7 +77,7 @@ take hours. Instead, try to run focused component tests.
 
 To run the acceptance test suite, first copy `vagrant-spec.config.example.rb`
 to `vagrant-spec.config.rb` and modify it to valid values. The places you
-should fill in are clearly marked.
+should fill in are clearly marked...
 
 Next, see the components that can be tested:
 
